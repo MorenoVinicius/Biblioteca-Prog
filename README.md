@@ -10,6 +10,8 @@
  ✒️[Miro](https://miro.com/pt/) - Quadro branco colaborativo online.<br>
  
  ✒️[Neumorphism](https://neumorphism.io/) - Gerar border-radius e ja obter o codigo.<br>
+ 
+ ✒️[Figma](https://www.figma.com/)- Ferramenta para design de interfaces<br>
 
  🔥 [Icon Finder](https://www.iconfinder.com/) - Icones e figurinhas gratuitas.<br>
  
