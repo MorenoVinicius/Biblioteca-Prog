@@ -1,4 +1,4 @@
-## Sites úteis!
+## Biblioteca de sites !
 -------------------------------
 
  ✒️[Color Hex](https://www.color-hex.com/) - Encontrar paleta de cores .<br>
