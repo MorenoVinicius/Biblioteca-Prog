@@ -12,6 +12,8 @@
  ✒️[Neumorphism](https://neumorphism.io/) - Gerar border-radius e ja obter o codigo.<br>
  
  ✒️[Figma](https://www.figma.com/)- Ferramenta para design de interfaces<br>
+ 
+ ✒[](https://cssgradient.io/)- Ferramenta para fazer degrade em css.<br>
 
  🔥 [Icon Finder](https://www.iconfinder.com/) - Icones e figurinhas gratuitas.<br>
  
@@ -26,4 +28,6 @@
  🕹️[Code Combat](https://br.codecombat.com/play) - Aprender enquanto joga.<br>
  
  🕹️[Flexbox Defense](http://www.flexboxdefense.com/) - Aprender flex box enquanto joga um tower defense.<br>
+ 
+ 
  
