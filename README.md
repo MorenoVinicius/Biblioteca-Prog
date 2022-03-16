@@ -13,7 +13,7 @@
  
  ✒️[Figma](https://www.figma.com/)- Ferramenta para design de interfaces<br>
  
- ✒[](https://cssgradient.io/)- Ferramenta para fazer degrade em css.<br>
+ ✒[Css gradient](https://cssgradient.io/)- Ferramenta para fazer degrade em css.<br>
 
  🔥 [Icon Finder](https://www.iconfinder.com/) - Icones e figurinhas gratuitas.<br>
  
